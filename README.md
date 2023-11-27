@@ -39,7 +39,7 @@ Then run it by double clicking on Handwritten Digit Recognition.ipynb !
 
 # Editor's Interface Screenshot
 
-![Screenshot](output.JPG)
+![Screenshot](Screenshot 2023-11-27 231034.png)
 
 =======================================================================
 
@@ -47,7 +47,7 @@ Then run it by double clicking on Handwritten Digit Recognition.ipynb !
 
 ### [This project is a part of following Open Source Program](https://codeclause.com/)
 
-![Screenshot](codeclause.jpg)
+![Screenshot](cc.jpg)
 
 
 =======================================================================
