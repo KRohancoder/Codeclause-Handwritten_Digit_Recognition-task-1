@@ -39,7 +39,7 @@ Then run it by double clicking on Handwritten Digit Recognition.ipynb !
 
 # Editor's Interface Screenshot
 
-![Screenshot](Screenshot 2023-11-27 231034.png)
+![Screenshot](Screenshot_2023-11-27_231034.png)
 
 =======================================================================
 
